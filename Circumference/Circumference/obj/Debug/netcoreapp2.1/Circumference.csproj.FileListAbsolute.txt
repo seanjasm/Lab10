@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Week2\Lab10\Circumference\Circumference\bin\Debug\netcoreapp2.1\Circumference.deps.json
+C:\Users\User\source\repos\Week2\Lab10\Circumference\Circumference\bin\Debug\netcoreapp2.1\Circumference.runtimeconfig.json
+C:\Users\User\source\repos\Week2\Lab10\Circumference\Circumference\bin\Debug\netcoreapp2.1\Circumference.runtimeconfig.dev.json
+C:\Users\User\source\repos\Week2\Lab10\Circumference\Circumference\bin\Debug\netcoreapp2.1\Circumference.dll
+C:\Users\User\source\repos\Week2\Lab10\Circumference\Circumference\bin\Debug\netcoreapp2.1\Circumference.pdb
+C:\Users\User\source\repos\Week2\Lab10\Circumference\Circumference\obj\Debug\netcoreapp2.1\Circumference.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Week2\Lab10\Circumference\Circumference\obj\Debug\netcoreapp2.1\Circumference.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Week2\Lab10\Circumference\Circumference\obj\Debug\netcoreapp2.1\Circumference.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Week2\Lab10\Circumference\Circumference\obj\Debug\netcoreapp2.1\Circumference.AssemblyInfo.cs
+C:\Users\User\source\repos\Week2\Lab10\Circumference\Circumference\obj\Debug\netcoreapp2.1\Circumference.dll
+C:\Users\User\source\repos\Week2\Lab10\Circumference\Circumference\obj\Debug\netcoreapp2.1\Circumference.pdb
